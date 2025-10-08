@@ -1,0 +1,7 @@
+op,time_seconds
+list.append,0.000166
+set.add,0.000641
+BST.insert,0.007641
+x in list,0.033828
+x in set,0.000128
+BST.search,0.001206
