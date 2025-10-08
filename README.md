@@ -1,4 +1,4 @@
-Estructuras de Datos 
+##Estructuras de Datos 
 
 ## Contenido
 - `Stack` (LIFO) sobre lista.
