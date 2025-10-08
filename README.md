@@ -1,8 +1,4 @@
-# Módulo 2 — Estructuras de Datos (versión modern+safe)
-
-Implementaciones claras de estructuras clásicas con una **demo** y un **benchmark** opcional.
-Esta versión evita constructos que a veces molestan a Pylance/linters (sin `from __future__ import annotations`,
-forward refs como cadenas, tipado estándar de `typing`).
+# Módulo 2 — Estructuras de Datos 
 
 ## Contenido
 - `Stack` (LIFO) sobre lista.
