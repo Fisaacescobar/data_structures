@@ -1,4 +1,4 @@
-# Módulo 2 — Estructuras de Datos 
+Estructuras de Datos 
 
 ## Contenido
 - `Stack` (LIFO) sobre lista.
